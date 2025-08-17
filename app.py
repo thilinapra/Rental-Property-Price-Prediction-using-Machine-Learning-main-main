@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 
 def streamlit_config():
 
-    # page configuration
+  
     st.set_page_config(page_title='Rendal Property', layout="wide")
 
     # page header transparent color
